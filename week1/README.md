@@ -28,3 +28,10 @@ The exercises are ordered from simple to more complex.
 | 11 | `11_ticket_price.py` | Calculates a ticket price with nested conditions |
 
 ## How to run
+
+Make sure Python 3 is installed, then run any file from the `week1` folder:
+
+```bash
+cd week1
+python3 01_comparison_operator.py
+```
